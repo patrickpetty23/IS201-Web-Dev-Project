@@ -1,0 +1,32 @@
+.header{
+    top: auto;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+.mainbody{
+    top: 110px;
+    height: fit-content;
+    left: 5px;
+    right: 5px;
+    margin-right: 2px;
+}
+.footer{
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+}
+h4{
+    font-size: 16pt;
+    color: darkolivegreen;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    color: blue;
+}

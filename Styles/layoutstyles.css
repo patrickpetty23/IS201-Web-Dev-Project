@@ -1,0 +1,75 @@
+body{
+    background-image: url(../images/space.jpeg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+ul{
+    font-weight: normal;
+}
+.common{
+    position: absolute;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 10px;
+    height: 100px;
+    z-index: 2;
+    color: white;
+}
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 150px;
+    bottom: 39px;
+    z-index: 1;
+    color: white;
+}
+.mainbody{
+    top: 114px;
+    bottom: 39px;
+    left: 164px;
+    right: 164px;
+    color: white;
+}
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    width: 150px;
+    bottom: 39px;
+    color: white;
+}
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    color: white;
+    text-align: center;
+}
+.subheader{
+    float: right;
+    padding-right: 5px;
+}
+.patrickimage{
+    float: right;
+}
+.name{
+    float: left;
+    padding-right: 450px;
+}
+.links{
+    color: white;
+    text-decoration: none;
+}
+.links:hover{
+    text-decoration: underline;
+}
+.links:visited{
+    color: white;
+
+}
+.bold{
+    font-weight: bold;
+}
